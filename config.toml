@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "/"
 languageCode = "en-us"
-title = "Portfolio for Ted Laderas, PhD"
+title = "Portfolio for Christian Vazquez"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
@@ -19,8 +19,8 @@ disqusShortname = ""
   # CSS class.
 
   # Provide your metadata here.
-  name = "Ted Laderas"
-  description = "Portfolio/CV for Ted Laderas"
+  name = "Christian Vazquez"
+  description = "Portfolio/Resume for Christian Vazquez"
 
   # Link custom assets relative to /static
   custom_css = []
@@ -39,8 +39,8 @@ disqusShortname = ""
 
   # Navigation Section
   [params.navigation]
-    title = "Ted Laderas, PhD"
-    subtitle = "Data Scientist, Educator, and Collaborator"
+    title = "Christian Vazquez"
+    subtitle = "Business Professional, Budding Tech Enthusiast"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
@@ -75,8 +75,8 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Ted Laderas, PhD"
-    subtitle = "Portfolio of Data Science and Visualization Projects"
+    title = "Christian Vazquez"
+    subtitle = "Portfolio of Cloud Computing and Linux Projects"
     buttonText = "Curriculum Vitae"
     url = "cv/"
 
