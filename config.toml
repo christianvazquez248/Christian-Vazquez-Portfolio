@@ -82,7 +82,7 @@ disqusShortname = ""
 
 
   # Tiles Section
-  [params.tiles]
+  #[params.tiles]
     enable = true
     # Display your showcases here.
     [[params.tiles.showcase]]
