@@ -92,67 +92,6 @@ disqusShortname = ""
       image = "projects/top_functions.jpg"
 
     
-    [[params.tiles.showcase]]
-      title = "Chopped Judges"
-      subtitle = "Are judges associated with overall episode rating?"
-      image = "projects/chopped.png"
-      url = "projects/chopped"
-
-    
-    [[params.tiles.showcase]]
-      title = "Avatar Sentiment Journeys"
-      subtitle = "Understanding each character's journey through sentiment analysis"
-      image = "projects/zuko.png"
-      url = "projects/avatar"
-
-    [[params.tiles.showcase]]
-      title = "Shiny App: Palmer Penguin Party"
-      subtitle = "Using decision trees to build a species predictor for the Palmer Penguin Dataset"
-      image = "projects/penguin_party.png"
-      url = "https://tladeras.shinyapps.io/penguin_party/"
-    
-    
-    [[params.tiles.showcase]]
-      title = "Project: Understanding Coffee Scores"
-      subtitle = "Does processing method influence overall score?"
-      image = "projects/coffee.png"
-      url = "projects/coffee"
-    
-    [[params.tiles.showcase]]
-      title = "Project: Choropleth of Ready for R Class"
-      subtitle = "Where are the Ready for R Students From?"
-      image = "projects/choropleth.png"
-      url = "projects/choropleth"
-
-    [[params.tiles.showcase]]
-      title = "Project: Animal Crossing Tidy Tuesday"
-      subtitle = "What personality/animal combos are unique?"
-      image = "projects/ac.png"
-      url = "projects/animal_crossing"
-
-    [[params.tiles.showcase]]
-      title = "Course: Ready for R"
-      subtitle = "A gentle introduction to the R and the tidyverse"
-      image = "projects/ready4r.png"
-      url = "https://ready4r.netlify.app"
-
-    [[params.tiles.showcase]]
-      title = "Course: Stats for Neuroscientists"
-      subtitle = "A Course on Statistical Image Processing for Neuroscientists new to computing"
-      image = "projects/stats4neuro.png"
-      url = "https://stats4neuro.netlify.app"
-      
-    [[params.tiles.showcase]]
-      title = "Course: R-Bootcamp"
-      subtitle = "An interactive introduction to the tidyverse"
-      image = "projects/r-bootcamp.jpg"
-      url = "https://r-bootcamp.netlify.app"
-
-    [[params.tiles.showcase]]
-      title = "Workshop: A gRadual Introduction to Shiny"
-      subtitle = "A short workshop introducing basic shiny programming concepts"
-      #image = "projects/r-bootcamp.jpg"
-      url = "https://laderast.github.io/gradual_shiny/"
 
     # You can make more showcases by copy and pasting the code above
 
