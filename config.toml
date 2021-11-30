@@ -82,10 +82,10 @@ disqusShortname = ""
 
 
   # Tiles Section
-  #[params.tiles]
+  [params.tiles]
     enable = true
     # Display your showcases here.
-    [[params.tiles.showcase]]
+    #[[params.tiles.showcase]]
       title = "Lesser Known Tidyverse Functions"
       subtitle = "Parsing a twitter thread about tidyverse functions"
       url = "projects/tidyverse_functions"
