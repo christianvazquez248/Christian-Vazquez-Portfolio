@@ -152,7 +152,7 @@ disqusShortname = ""
     country = "USA"
 
   # Footer section
-  #[params.footer]
+  [params.footer]
     enable = true
     copyright = "Ted Laderas"
 
