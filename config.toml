@@ -145,9 +145,9 @@ disqusShortname = ""
     title = "Phone"
     phone = "Available by Request"
 
-    #[[params.contact.address]]
-    #title = "Address"
-    #street = "Full Address Available by Request"
+    [[params.contact.address]]
+    title = "Address"
+    street = "Address Available by Request"
     #city = "Brandon, FL 33511"
     #country = "USA"
 
