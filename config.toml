@@ -147,7 +147,7 @@ disqusShortname = ""
 
     [[params.contact.address]]
     title = "Address"
-    street = "Address Available by Request"
+    street = "Available by Request"
     #city = "Brandon, FL 33511"
     #country = "USA"
 
