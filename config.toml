@@ -49,7 +49,7 @@ disqusShortname = ""
       name = "Home"
       url = "#"
 
-    # [[params.navigation.links]]
+    #[[params.navigation.links]]
       name = ""
       url = ""
 
