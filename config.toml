@@ -49,7 +49,7 @@ disqusShortname = ""
       name = "Home"
       url = "#"
 
-    #[[params.navigation.links]]
+    # [[params.navigation.links]]
       name = ""
       url = ""
 
@@ -61,12 +61,12 @@ disqusShortname = ""
     #    url = "UrlOfLink"
 
     # Button Style 1
-    #[[params.navigation.button1]]
+    # [[params.navigation.button1]]
     #  name = "Get Started"
     #  url = "blogs"
 
     # Button Style 2
-    #[[params.navigation.button2]]
+    # [[params.navigation.button2]]
     #  name = "Log In"
     #  url = "#"
 
@@ -143,31 +143,31 @@ disqusShortname = ""
 
     [[params.contact.phone]]
     title = "Phone"
-    phone = "(000) 000-0000 x1234"
+    phone = "Available by Request"
 
     #[[params.contact.address]]
     title = "Address"
-    street = "3181 SW Sam Jackson Road"
-    city = "Portland, OR 97212"
+    street = "Full Address Available by Request"
+    city = "Brandon, FL 33511"
     country = "USA"
 
   # Footer section
   [params.footer]
     enable = true
-    copyright = "Ted Laderas"
+    copyright = "Christian Vazquez"
 
     # Uses font awesome icons
-    #[[params.footer.social]]
-      icon = "fa-twitter"
-      url= "https://www.twitter.com/tladeras"
-      label = "Twitter"
+    # [[params.footer.social]]
+     # icon = "fa-twitter"
+     # url= "https://www.twitter.com/tladeras"
+     # label = "Twitter"
 
-    #[[params.footer.social]]
+    # [[params.footer.social]]
      # icon = "fa-facebook"
       #url= "https://www.facebook.com"
       #label = "Facebook"
 
-    #[[params.footer.social]]
+    # [[params.footer.social]]
      # icon = "fa-instagram"
       #url= "https://www.instagram.com"
       #label = "Instagram"
@@ -182,7 +182,7 @@ disqusShortname = ""
       url= "https://www.linkedin.com/in/christian-vazquez-09739417b/"
       label = "LinkedIn"
 
-    #[[params.footer.quicklinks]]
+    [[params.footer.quicklinks]]
       text = "Design: "
       url= "https://www.html5up.net"
       alt = "HTML5 UP"
