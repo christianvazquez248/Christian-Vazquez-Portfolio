@@ -85,11 +85,11 @@ disqusShortname = ""
   [params.tiles]
     enable = true
     # Display your showcases here.
-    #[[params.tiles.showcase]]
-      title = "Lesser Known Tidyverse Functions"
-      subtitle = "Parsing a twitter thread about tidyverse functions"
-      url = "projects/tidyverse_functions"
-      image = "projects/top_functions.jpg"
+    [[params.tiles.showcase]]
+      title = "AWS Deployment"
+      subtitle = "Basic Deployment of AWS VM onto VPC and Related Functions"
+      url = "https://docs.google.com/document/d/18Uuwj25ElSGrTpg0918CvhPwsLcpWCy-YLVLBzqBGoA/edit?usp=sharing"
+      image = ""
 
     
 
