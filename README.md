@@ -1,3 +1,5 @@
+This repository is a modified copy from Ted Laderas. This copy serves to output to a Netlify hosted website that I will be using as a perosnal portfolio. The original respository can be found here https://github.com/laderast/portfolio-example.
+
 # Simple Portfolio Template
 
 This repository provides a template for sharing work as an online portfolio (website).
