@@ -179,7 +179,7 @@ disqusShortname = ""
 
     [[params.footer.social]]
       icon = "fa-linkedin"
-      url= "https://www.linkedin.com/in/christian-vazquez-09739417b/"
+      url= "https://www.linkedin.com/in/christianvazquez248/"
       label = "LinkedIn"
 
     [[params.footer.quicklinks]]
