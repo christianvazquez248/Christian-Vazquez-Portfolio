@@ -39,7 +39,7 @@ disqusShortname = ""
 
   # Navigation Section
   [params.navigation]
-    title = "Christian Vazquez"
+    title = "Christian Michael Vazquez"
     subtitle = "Business Professional, Budding Tech Enthusiast"
     menu = "Menu"
     # Optional logo as brand stored in img/
@@ -75,7 +75,7 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Christian Vazquez"
+    title = "Christian Michael Vazquez"
     subtitle = "Portfolio of Cloud Computing and Linux Projects"
     buttonText = "Curriculum Vitae"
     url = "cv/"
@@ -89,6 +89,16 @@ disqusShortname = ""
       title = "AWS Deployment"
       subtitle = "Basic Deployment of AWS VM onto VPC and Related Functions"
       url = "https://docs.google.com/document/d/18Uuwj25ElSGrTpg0918CvhPwsLcpWCy-YLVLBzqBGoA/edit?usp=sharing"
+      image = ""
+    [[params.tiles.showcase]]
+      title = "Linux Installation"
+      subtitle = "Basic Installation of fedora linux to show understanding of linux and virtual machines"
+      url = "https://docs.google.com/document/d/1x499krV_pkQiZ980xuBNPsW-3fat0SzsfyXrVs4Pqbk/edit?usp=sharing"
+      image = ""
+    [[params.tiles.showcase]]
+      title = "Cloud Architect"
+      subtitle = "Cloud deployment planing diagram to show basic understanding of cloud architect responsibilities"
+      url = "https://drive.google.com/file/d/1YJWwWAnZF0IjDGgSAgPxOymDuLovciTE/view?usp=sharing"
       image = ""
 
     
