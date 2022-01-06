@@ -40,7 +40,7 @@ disqusShortname = ""
   # Navigation Section
   [params.navigation]
     title = "Christian Michael Vazquez"
-    subtitle = "Business Professional, Budding Tech Enthusiast"
+    subtitle = "Management Professional, Cloud Enthusiast"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
@@ -85,6 +85,11 @@ disqusShortname = ""
   [params.tiles]
     enable = true
     # Display your showcases here.
+    [[params.tiles.showcase]]
+      title = "RPI Home Server
+      subtitle = "Raspberry Pi 4 is used as a power efficient home server and to learn the basics of Docker through the use of portainer."
+      url = "https://github.com/christianvazquez248/pi-hosted"
+      image = ""
     [[params.tiles.showcase]]
       title = "AWS Deployment"
       subtitle = "Basic Deployment of AWS VM onto VPC and Related Functions"
