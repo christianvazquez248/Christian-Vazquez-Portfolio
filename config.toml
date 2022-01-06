@@ -86,7 +86,7 @@ disqusShortname = ""
     enable = true
     # Display your showcases here.
     [[params.tiles.showcase]]
-      title = "RPI Home Server
+      title = "RPI Home Server"
       subtitle = "Raspberry Pi 4 is used as a power efficient home server and to learn the basics of Docker through the use of portainer"
       url = "https://github.com/christianvazquez248/pi-hosted"
       image = ""
