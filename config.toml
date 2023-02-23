@@ -92,12 +92,17 @@ disqusShortname = ""
       image = ""
     [[params.tiles.showcase]]
       title = "AWS Deployment"
-      subtitle = "Basic Deployment of AWS VM onto VPC and Related Functions"
+      subtitle = "Basic Deployment of AWS VM onto VPC and related functions"
       url = "https://docs.google.com/document/d/18Uuwj25ElSGrTpg0918CvhPwsLcpWCy-YLVLBzqBGoA/edit?usp=sharing"
       image = ""
     [[params.tiles.showcase]]
+      title = "Azure Deployment"
+      subtitle = "Basic Deployment of Azure VM featuring additional access control and network configuration"
+      url = "https://drive.google.com/file/d/1SXaPKFc87kqqNpE2jMTbzShJUBn1_XRM/view?usp=sharing"
+      image = ""
+    [[params.tiles.showcase]]
       title = "Linux Installation"
-      subtitle = "Basic Installation of fedora linux to show understanding of linux and virtual machines"
+      subtitle = "Basic installation of Fedora Linux to show understanding of Linux and virtual machines"
       url = "https://docs.google.com/document/d/1x499krV_pkQiZ980xuBNPsW-3fat0SzsfyXrVs4Pqbk/edit?usp=sharing"
       image = ""
     [[params.tiles.showcase]]
@@ -105,6 +110,9 @@ disqusShortname = ""
       subtitle = "Cloud deployment planing diagram to show basic understanding of cloud architect responsibilities"
       url = "https://drive.google.com/file/d/1YJWwWAnZF0IjDGgSAgPxOymDuLovciTE/view?usp=sharing"
       image = ""
+      
+      
+      https://drive.google.com/file/d/1SXaPKFc87kqqNpE2jMTbzShJUBn1_XRM/view?usp=sharing
 
     
 
